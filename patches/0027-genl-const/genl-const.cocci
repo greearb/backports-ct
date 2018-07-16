@@ -1,5 +1,5 @@
 @@
-attribute name __genl_const;
+attribute __genl_const;
 @@
 (
 -const struct genl_multicast_group
